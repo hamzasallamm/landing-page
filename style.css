@@ -65,7 +65,7 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 60px 60px;
-    margin: 20px;
+    margin: 30px 0px;
 }
 
 .cta-text {
@@ -76,7 +76,7 @@ footer {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 5px;
+    padding: 0px;
 }
 /* GENERAL */
 
@@ -204,4 +204,8 @@ button {
 footer {
     background-color: #1f2937;
     color: white;
+}
+
+footer p {
+    font-size: 8px;
 }
